@@ -37,8 +37,8 @@ Here are some of the technologies I’ve worked with:
 Feel free to reach out if you’d like to collaborate, chat about mobile development, or discuss the latest in AI and gaming!
 
 - 💌 [Email Me](mailto:jeanquejadatoro@gmail.com)
-- 🌐 [Visit My Instagram]([https://your-portfolio.com](https://www.instagram.com/jeancarlos.quejadatoro?igsh=aWJwaWZucDY4d2ti))
-- 💼 [Connect on LinkedIn]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jean-carlos-quejada-toro-3b16831b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🌐 [Visit My Instagram](https://your-portfolio.com](https://www.instagram.com/jeancarlos.quejadatoro?igsh=aWJwaWZucDY4d2ti))
+- 💼 [Connect on LinkedIn](https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/jean-carlos-quejada-toro-3b16831b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 Thanks for stopping by! Let’s create something amazing together. 🚀
 
